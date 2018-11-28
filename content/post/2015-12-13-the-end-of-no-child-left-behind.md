@@ -1,0 +1,21 @@
+---
+title: The End of 'No Child Left Behind'
+author: Robert Underwood
+date: '2015-12-13'
+slug: the-end-of-no-child-left-behind
+categories: [blogging, politics]
+tags: [education, schools, state’s rights]
+cover:  http://wxow.images.worldnow.com/images/18964097_SA.jpg
+---
+
+![](http://wxow.images.worldnow.com/images/18964097_SA.jpg)
+
+So a few days ago, the "Every Student Succeeds Act" was [signed into law](https://www.washingtonpost.com/local/education/obama-signs-new-k-12-education-law-that-ends-no-child-left-behind/2015/12/10/c9e58d7c-9f51-11e5-a3c5-c77f2cc5a43c_story.html) after passing the House and Senate with broad bipartisan support, a rarity in recent times.  This law does away with most of the regulations that were put into place with "No Child Left Behind" and returns a lot of the power in regards to education policy back to the states.  As a result, the strict pressures in testing students to receive federal funding is removed.  Just as "No Child Left Behind" received bipartisan support when President George W. Bush signed it into law in 2002, the same thing has occurred 13 years later.
+
+When NCLB was signed, everyone was in agreement that education standards were uneven across the board and that something needed to be done.  However, the plan turned out to be a major failure.  There were pressures placed on school district to test students left and right.  As a result, some students ended up spending up to three months out of an entire school year on standardized testing or preparing for such a test.  Even students in kindergarten and 1st grade weren't exempt.  The results of these tests determined the fates of teachers, schools, and even school districts.  Curricula were overhauled so that students were test-ready.  However, American test scores as compared to other nations were still just as poor.
+
+The end result is that we have a generation of students who are well-prepared to take tests like robots instead of being able to actually learn for the sake of learning, apply what they are learning to real-world situations, or think critically.  Students today, more than ever before, are ill-prepared to enter college, trade schools, the military, and the workplace, unable to compete because they don't have the required skills.  College students are wasting time and money taking courses on material they should have already learned by high school graduation.  Is this what we really want for our next generation?  And we wonder why charter schools, private schools, and homeschooling are becoming so popular.
+
+The education of each student is the ultimate responsibility of their parents and the teachers who teach them.  The best ones to decide the course of a student's education belongs to the parents and teachers who are interacting with the student each day, not bureaucrats in Washington D.C. who haven't spent a single day teaching in a classroom.  The needs of a student in Massachusetts is completely different than a student in Georgia, California, Kansas, or Alaska.  I'll go even one step further and say that education needs to be decided on a local level, not a state level.  Students in a major metropolitan area have different needs than a student in a rural area; Pennsylvania has plenty of both.  I do agree that a minimum standard is needed.  However, it doesn't need to be as burdensome to the teacher.  A proper teacher should have the flexibility to teach what they feel is important for their students.  A good teacher would have no problem getting their students to perform far and above the minimum standards which preparing their students for what lies ahead.  A great teacher would give the students the ability to think and reason instead of regurgitating answers and forgetting everything once the test was over.
+
+The power has now been stripped away from the federal government, conceding defeat in a situation where the government abused their power.  This country was built on an idea that each individual state knows what's best for their citizens and should govern as they see fit with very little involvement from the federal government.  Now, it's time for the states to show what they can do without Uncle Sam breathing down their necks.

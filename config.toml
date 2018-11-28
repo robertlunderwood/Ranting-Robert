@@ -1,4 +1,4 @@
-baseURL = "http://www.rantingrobert.com"
+baseURL = "/"
 languageCode = "en"
 title = "Ranting Robert"
 theme = "hugo-nuo"

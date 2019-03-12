@@ -5,9 +5,9 @@ date: '2018-02-16'
 slug: resistant-to-change
 categories: ["blogging", "politics"]
 tags: ["Donadld Trump", "Barack Obama", "Immigration", "Food Stamps", "Budget", "Debt"]
-cover: "http://ndigo.com/wp-content/uploads/2017/01/obama_hope_progress_change1.jpg"
+cover: "https://ndigo.com/wp-content/uploads/2017/01/obama_hope_progress_change1.jpg"
 ---
-![](http://ndigo.com/wp-content/uploads/2017/01/obama_hope_progress_change1.jpg)
+![](https://ndigo.com/wp-content/uploads/2017/01/obama_hope_progress_change1.jpg)
 
 I thought "Hope and Change" was the name of the game in 2008.  So why are you so resistant and allergic to change now?  Is it because you don't want the changes?  Maybe you don't like the changes.  Was this not what you wanted?
 

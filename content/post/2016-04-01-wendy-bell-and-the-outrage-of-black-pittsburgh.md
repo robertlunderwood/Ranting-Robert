@@ -1,7 +1,7 @@
 ---
 title: Wendy Bell and the Outrage of Black Pittsburgh
 author: Robert Underwood
-cover: "http://media4.s-nbcnews.com/j/newscms/2016_25/1588146/ss-160621-wendy-bell-cr-1259_c2bf5a0257d3f5ce1f6c62fd20752d46.nbcnews-ux-2880-1000.jpg"
+cover: "https://www.wesa.fm/sites/wesa/files/styles/x_large/public/201606/wendy_bell_0.jpg"
 date: '2016-04-01'
 slug: wendy-bell-and-the-outrage-of-black-pittsburgh
 categories: ["blogging"]
@@ -10,7 +10,7 @@ tags: ["black", "crime", "media", "news", "race", "Wendy Bell", "Wilkinsburg"]
 
 Trigger Warning: This post contains truthful information that may be offensive or sensitive to certain segments of the population such as college students, liberals, and blacks.  I am not responsible for any hurt feelings this may cause.  Of course, I don't care about your feelings.
 
-![](http://media4.s-nbcnews.com/j/newscms/2016_25/1588146/ss-160621-wendy-bell-cr-1259_c2bf5a0257d3f5ce1f6c62fd20752d46.nbcnews-ux-2880-1000.jpg)
+![](https://www.wesa.fm/sites/wesa/files/styles/x_large/public/201606/wendy_bell_0.jpg)
 
 Pittsburgh reporter Wendy Bell was [fired from WTAE] (http://www.post-gazette.com/ae/tv-radio/2016/03/30/WTAE-TV-s-Wendy-Bell-fired-over-racially-inflammatory-messages/stories/201603300196) after making some controversial remarks on her Facebook page after a recent shooting.  As we all know, when we talk about controversy and black people, it usually means black people don't like what someone else said about them because it's the truth.  Her comments came after a [March 9th shooting] (http://triblive.com/news/allegheny/10120087-74/powell-police-morris) where 5 adults and an unborn child were killed at a backyard cookout in Wilkinsburg, a Pittsburgh suburb.  The comments which stirred up the black community more than the shooting itself?
 

@@ -28,15 +28,10 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   identifier = "About"
   url = "http://www.robertlunderwood.com/about"
 
-[[menu.main]]
-  name = "Resume"
-  weight = 3
-  identifier = "Resume"
-  url = "http://www.robertlunderwood.com/resume"
   
 [[menu.main]]
   name = "Ranting Robert"
-  weight = 4
+  weight = 3
   identifier = "Ranting Robert"
   url = "/"
   
@@ -64,7 +59,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   # weibo = "weibo_username"
   # wechat= "/img/qrcode.jpg" # Replace with your wechat qrcode image
   facebook = "robertlunderwood"
-  google = "+robertunderwood"
+  #google = "+robertunderwood"
   # instagram = "instagram_username"
   youtube = "robertlunderwood"
   # vimeo = "vimeo_username"

@@ -5,10 +5,10 @@ date: '2016-02-09'
 slug: bernie-sanders-millennials-and-why-they-are-wrong-about-everything
 categories: ["blogging"]
 tags: [Bernie Sanders, Hillary Clinton, Obama, socialism, voting]
-cover : /img/sanders_2016.png
+cover : "https://www.amerika.org/wp-content/uploads/sanders_2016-600x300.png"
 ---
 
-![](/img/sanders_2016.png)
+![](https://www.amerika.org/wp-content/uploads/sanders_2016-600x300.png)
 
 Some of you are going to love this post.  Most of you will hate it.  My job is to ell the truth.  Sometimes the truth hurts, and some of you can't handle the truth.  However, the truth shall set you free.
 I'm out of clichés.

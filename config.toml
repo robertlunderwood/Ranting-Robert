@@ -17,15 +17,15 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
-  name = "Home"
-  weight = 1
+  name = "My Website"
+  weight = 2
   identifier = "home"
   url = "http://www.robertlunderwood.com"
 
   
 [[menu.main]]
   name = "Ranting Robert"
-  weight = 2
+  weight = 1
   identifier = "Ranting Robert"
   url = "/"
   

@@ -1,14 +1,20 @@
 ---
-title: "Bernie Sanders, Millennials, and Why They Are Wrong…About Everything"
-author: "Robert Underwood"
+title: Bernie Sanders, Millennials, and Why They Are Wrong...About Everything
+author: Robert Underwood
 date: '2016-02-09'
 slug: bernie-sanders-millennials-and-why-they-are-wrong-about-everything
-categories: ["blogging"]
-tags: [Bernie Sanders, Hillary Clinton, Obama, socialism, voting]
-cover : "https://www.amerika.org/wp-content/uploads/sanders_2016-600x300.png"
+categories:
+  - blogging
+tags:
+  - Bernie Sanders
+  - Hillary Clinton
+  - Obama
+  - socialism
+  - voting
+cover : "https://i2.wp.com/realbrotherradionetwork.com/wp-content/uploads/2016/03/SOCAILIST-SANDERS.jpg"
 ---
 
-![](https://www.amerika.org/wp-content/uploads/sanders_2016-600x300.png)
+![](https://i2.wp.com/realbrotherradionetwork.com/wp-content/uploads/2016/03/SOCAILIST-SANDERS.jpg)
 
 Some of you are going to love this post.  Most of you will hate it.  My job is to ell the truth.  Sometimes the truth hurts, and some of you can't handle the truth.  However, the truth shall set you free.
 I'm out of clichés.
@@ -34,8 +40,8 @@ Free healthcare, a living wage, and paid family leave at the cost of employers a
 
 It's clear that the millennial generation grew up with an entitled mentality.  A lot of people who I have grown up with or went to school with never understood the value of hard work or the value of a dollar.  Unfortunately, there are more people ignorant of American values and American history.  Bernie Sanders is tapping into this mentality and as the uneducated and entitled grows, so does his support.  But his proposals come with a major price:  18 trillion dollars.  We are already in debt 19 trillion...
 
-"Feel the Burn"?  More like "feel the burn".   I have a better catchphrase if Bernie Sanders is elected:
+"Feel the Bern"?  More like "feel the burn".   I have a better catchphrase if Bernie Sanders is elected:
 
-<img class="aligncenter" src="/img/lesnar.gif" alt="" width="500" height="281" />
+<img class="aligncenter" src="https://media.giphy.com/media/10b2ryHKqbFMWc/giphy.gif" alt="" width="500" height="281" />
 
 Here comes the pain.

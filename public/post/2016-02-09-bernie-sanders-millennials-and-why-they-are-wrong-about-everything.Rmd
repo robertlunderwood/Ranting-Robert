@@ -5,10 +5,10 @@ date: '2016-02-09'
 slug: bernie-sanders-millennials-and-why-they-are-wrong-about-everything
 categories: ["blogging"]
 tags: [Bernie Sanders, Hillary Clinton, Obama, socialism, voting]
-cover : /img/sanders_2016.png
+cover : "https://i2.wp.com/realbrotherradionetwork.com/wp-content/uploads/2016/03/SOCAILIST-SANDERS.jpg"
 ---
 
-![](/img/sanders_2016.png)
+![](https://i2.wp.com/realbrotherradionetwork.com/wp-content/uploads/2016/03/SOCAILIST-SANDERS.jpg)
 
 Some of you are going to love this post.  Most of you will hate it.  My job is to ell the truth.  Sometimes the truth hurts, and some of you can't handle the truth.  However, the truth shall set you free.
 I'm out of clichés.
@@ -36,6 +36,6 @@ It's clear that the millennial generation grew up with an entitled mentality.  A
 
 "Feel the Burn"?  More like "feel the burn".   I have a better catchphrase if Bernie Sanders is elected:
 
-<img class="aligncenter" src="/img/lesnar.gif" alt="" width="500" height="281" />
+<img class="aligncenter" src="https://media.giphy.com/media/10b2ryHKqbFMWc/giphy.gif" alt="" width="500" height="281" />
 
 Here comes the pain.

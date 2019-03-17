@@ -22,22 +22,16 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   identifier = "home"
   url = "http://www.robertlunderwood.com"
 
-[[menu.main]]
-  name = "About Me"
-  weight = 2
-  identifier = "About"
-  url = "http://www.robertlunderwood.com/about"
-
   
 [[menu.main]]
   name = "Ranting Robert"
-  weight = 3
+  weight = 2
   identifier = "Ranting Robert"
   url = "/"
   
 [[menu.main]]
   name = "About Ranting Robert"
-  weight = 5
+  weight = 3
   identifier = "About Ranting Robert"
   url = "/about-ranting-robert"
 

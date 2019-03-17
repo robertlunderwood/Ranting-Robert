@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flat Tax on Ranting Robert</title>
+    <link>/tags/flat-tax/</link>
+    <description>Recent content in Flat Tax on Ranting Robert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Tue, 05 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/flat-tax/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flat Tax vs. Fair Tax</title>
+      <link>/post/flat-tax-vs-fair-tax/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/flat-tax-vs-fair-tax/</guid>
+      <description>Republican Presidential candidate and retired neurosurgeon Dr. Ben Carson is proposing a 14.9% flat income tax and throwing out the current tax code. The primary arguments made for going to a flat tax is simple: there will be no loopholes for anyone to jump through and take advantage of, no one will be taxed twice on capital gains, interest and dividends, and most citizens will have some skin in the game.</description>
+    </item>
+    
+  </channel>
+</rss>

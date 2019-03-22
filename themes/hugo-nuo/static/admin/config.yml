@@ -1,10 +1,9 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
- publish_mode: editorial_workflow
- media_folder: "themes/hugo-nuo/static/img"
- public_folder: "/img"
- collections:
+publish_mode: editorial_workflow
+media_folder: "themes/hugo-nuo/static/img"public_folder: "/img"
+collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     folder: "/content/post" # The path to the folder where the documents are stored

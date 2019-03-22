@@ -2,7 +2,8 @@
 layout: blog
 title: This Bracket Business All Over Again
 date: 2019-03-22T02:43:11.692Z
-thumbnail: /img/march-madness-logo-w.-brackets.jpg
+slug: this-bracket-business-all-over-again
+cover: /img/march-madness-logo-w.-brackets.jpg
 ---
 ![](/img/march-madness-logo-w.-brackets.jpg)
 

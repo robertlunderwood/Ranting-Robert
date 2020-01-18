@@ -17,21 +17,21 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
-  name = "My Website"
-  weight = 1
+  name = "Personal Home"
+  weight = 3
   identifier = "Robert L. Underwood"
   url = "http://www.robertlunderwood.com"
 
   
 [[menu.main]]
   name = "Ranting Robert"
-  weight = 2
+  weight = 1
   identifier = "Ranting Robert"
   url = "/"
   
 [[menu.main]]
   name = "About Ranting Robert"
-  weight = 3
+  weight = 2
   identifier = "About Ranting Robert"
   url = "/about-ranting-robert"
 
@@ -46,7 +46,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   addThis = "ra-5a63939b44fe33a3"
 
   # Choose your social networks
-  email = "rlu@robertlunderwood.com"
+  email = "robertlunderwood+rantingrobert@gmail.com"
   #github = "github_username"
   twitter = "robunderwood"
   linkedin = "robertlunderwood"

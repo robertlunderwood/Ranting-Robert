@@ -5,10 +5,10 @@ date: '2013-05-22'
 slug: uninformed-or-uncaring
 categories: [blogging, politics]
 tags: [election, Pittsburgh, voting]
-cover:  http://whirlmagazine.com/wp-content/uploads/2015/11/RE_IMG_52651.jpg
+cover:  https://whirlmagazine.com/wp-content/uploads/2015/11/RE_IMG_52651.jpg
 ---
 
-![](http://whirlmagazine.com/wp-content/uploads/2015/11/RE_IMG_52651.jpg)
+![](https://whirlmagazine.com/wp-content/uploads/2015/11/RE_IMG_52651.jpg)
 
 **NOTE:  THIS IS NOT AN ENDORSEMENT OF THE DEMOCRATIC PARTY!**
 

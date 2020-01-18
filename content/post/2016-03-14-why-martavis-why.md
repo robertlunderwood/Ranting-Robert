@@ -13,7 +13,7 @@ I'm not talking about Cleveland Browns wide receiver Josh Gordon.
 
 ![](/img/martavis.jpg)
 
-I'm talking about Pittsburgh Steelers wide receiver Martavis Bryant.  Bryant [is suspended] (http://espn.go.com/nfl/story/_/id/14971120/martavis-bryant-pittsburgh-steelers-banned-nfl-least-one-year) for the 2016 NFL regular season for missing drug tests.
+I'm talking about Pittsburgh Steelers wide receiver Martavis Bryant.  Bryant [is suspended] (https://espn.go.com/nfl/story/_/id/14971120/martavis-bryant-pittsburgh-steelers-banned-nfl-least-one-year) for the 2016 NFL regular season for missing drug tests.
 
 WHY????!!!  He just completely ruined my Madden 17 team.  Do you know how long I have wanted to have a tall receiver that I can throw deep to and know he is going to out-jump everyone for the ball?  Now I need a new plan.
 My Madden woes aside, this is a major problem.  When I started this website, I promised to call a spade a spade.  I am on record for calling Josh Gordon a weed head who needed to get his issues fixed.  I called [Johnny Manziel an alcoholic](/post/the-obligatory-johnny-football-post) and said he needed help.   So what do I call a player who went down the same road that Josh Gordon went down?

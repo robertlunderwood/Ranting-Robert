@@ -9,9 +9,9 @@ tags: [black, race]
 
 For some of you who used to follow my old rambling and rants that I posted on Myspace (yeah, I know) and Facebook from the late 2000s, you may remember how often I went off on black people.  I made a promise to never again use my forum to discuss issues about the black community.  It’s not that I wanted to avoid confrontation.  I just got sick and tired of writing about the same old thing over and over and over and over and over and over again.  My goal at the time was to mix it up and provide some variety.  Also, I was stressing myself out over things that weren’t changing.  It was easier for me to just move on.
 
-![](http://i2.wp.com/s.newsweek.com/sites/www.newsweek.com/files/styles/full/public/2015/04/27/2015-04-28t005951z1lynxmpeb3r00irtroptp4usa-police-baltimore.JPG)
+![](https://i2.wp.com/s.newsweek.com/sites/www.newsweek.com/files/styles/full/public/2015/04/27/2015-04-28t005951z1lynxmpeb3r00irtroptp4usa-police-baltimore.JPG)
 
-![](http://i0.wp.com/media.breitbart.com/media/2015/04/baltimore-riot-police-car-AFP-640x480.jpg)
+![](https://i0.wp.com/media.breitbart.com/media/2015/04/baltimore-riot-police-car-AFP-640x480.jpg)
 
 Well, happy days are here again!  Every time there is an instance of a black person being killed by the police or police-like individuals, especially those who aren’t black, black people around the country riot.  I’m sure some of the organizers had good and reasonable intentions.  However, certain elements of the population break into every store that they can and steal everything they can get their hands on, bust windows, destroy cars and bus shelters, set everything on fire that they can, assault police officers, news reporters, and anyone else who happens to be in the way, and leave chaos and devastation behind them.  I am **not** going to take the time right now to discuss the particulars of the cases behind each of these instances; that’s the job for investigators, lawyers, judges, and juries.  What I am going to address are these reactions.
 

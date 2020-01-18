@@ -5,18 +5,18 @@ date: '2016-01-05'
 slug: flat-tax-vs-fair-tax
 categories: [blogging, politics]
 tags: [Ben Carson, debt, FairTax, flat tax, Government, spending]
-cover:  http://i0.wp.com/thepulse2016.com/wp-content/uploads/Ben_Carson1.jpg
+cover:  https://i0.wp.com/thepulse2016.com/wp-content/uploads/Ben_Carson1.jpg
 ---
 
-![](http://i0.wp.com/thepulse2016.com/wp-content/uploads/Ben_Carson1.jpg)
+![](https://i0.wp.com/thepulse2016.com/wp-content/uploads/Ben_Carson1.jpg)
 
-Republican Presidential candidate and retired neurosurgeon Dr. Ben Carson is proposing a [14.9% flat income tax](http://www.breitbart.com/big-government/2016/01/04/dr-ben-carson-proposes-14-9-percent-flat-tax-throw-current-tax-code/) and throwing out the current tax code.  The primary arguments made for going to a flat tax is simple:  there will be no loopholes for anyone to jump through and take advantage of, no one will be taxed twice on capital gains, interest and dividends, and most citizens will have some skin in the game.  That’s fine except there are two major problems:
+Republican Presidential candidate and retired neurosurgeon Dr. Ben Carson is proposing a [14.9% flat income tax](https://www.breitbart.com/big-government/2016/01/04/dr-ben-carson-proposes-14-9-percent-flat-tax-throw-current-tax-code/) and throwing out the current tax code.  The primary arguments made for going to a flat tax is simple:  there will be no loopholes for anyone to jump through and take advantage of, no one will be taxed twice on capital gains, interest and dividends, and most citizens will have some skin in the game.  That’s fine except there are two major problems:
 
 1.  People are still being taxed on how much they make.  Anyone who gets a paycheck is getting taxed based on doing WORK!  Why should the government benefit from my labor?  In addition, those who refuse to work and live off the system aren’t contributing either.  People making money under the table and on the underground economy aren’t participating either.  They aren’t reporting to the IRS, which leads to…
 
 2.  The IRS still exists.  In order for the government to collect the money, employers still need to take money out of everyone’s paycheck.  The tax cheats still need to be chased down.  People will still need to fill out (simplified) forms every year.  We’re still paying for a big government entity to take our money.
 
-This isn’t to say I’m against all taxes–I’m not.  I do agree that the system we use to collect taxes is fundamentally flawed and morally broken.  Or maybe that should be morally flawed and fundamentally broken.  However we want to call it, these two problems have to be resolved to have any permanent form of tax reform.  A revolutionary idea has come up called [the FairTax](http://fairtax.org/).  A more detailed summary can be found [here](http://fairtax-psyclone.netdna-ssl.com/media/attachments/549999512017a86464000320.pdf?1422935460), but here’s the gist of the plan.
+This isn’t to say I’m against all taxes–I’m not.  I do agree that the system we use to collect taxes is fundamentally flawed and morally broken.  Or maybe that should be morally flawed and fundamentally broken.  However we want to call it, these two problems have to be resolved to have any permanent form of tax reform.  A revolutionary idea has come up called [the FairTax](https://fairtax.org/).  A more detailed summary can be found [here](https://fairtax-psyclone.netdna-ssl.com/media/attachments/549999512017a86464000320.pdf?1422935460), but here’s the gist of the plan.
 
 1.  All payroll taxes including income, Medicare, and Social Security along with capital gains, gift, estate, alternative minimum, and self-employment taxes are abolished and are placed with a single, simple, visible sales tax, now proposed at 23% inclusive in the display price.  No sticker shock surprises.  This comes out to be a roughly 30% sales tax on the original value.  This would only apply to new items, not used ones.
 
@@ -28,7 +28,7 @@ In order to really make this plan effective, there need to be some MAJOR changes
 
 Maybe I am being a bit too radical.  Blowing up how the government collects AND spends money?  We can’t “fundamentally transform” that, right?  Then again, isn’t an \$18 trillion debt with an inefficient government enough?
 
-![](http://i2.wp.com/www.clydefitchreport.com/wp-content/uploads/2014/11/stock-footage-new-york-circa-march-national-debt-clock-in-manhattan-midtown.jpg)
+![](https://i2.wp.com/www.clydefitchreport.com/wp-content/uploads/2014/11/stock-footage-new-york-circa-march-national-debt-clock-in-manhattan-midtown.jpg)
 *U.S. Debt Clock as of November 2014*
 
 Or maybe not.  Maybe enough is enough and it’s time for a change.

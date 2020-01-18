@@ -5,14 +5,14 @@ date: '2015-10-01'
 slug: michael-vick-dog-fighting-and-forgiveness
 categories: [blogging]
 tags: [Dog-fighting, football, forgiveness, Michael Vick, Pittsburgh Steelers]
-cover:  http://a.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0829%2Fnfl_a_vick2x_1296x729_r4964_1296x1296_1-1.jpg
+cover:  https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0829%2Fnfl_a_vick2x_1296x729_r4964_1296x1296_1-1.jpg
 ---
 
-![](http://a.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0829%2Fnfl_a_vick2x_1296x729_r4964_1296x1296_1-1.jpg)
+![](https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0829%2Fnfl_a_vick2x_1296x729_r4964_1296x1296_1-1.jpg)
 
 I didn't think I would need to write this post.  This subject was exhausted over the summer and wouldn't be a relevant subject again unless the unthinkable happens...
 
-![](http://www.dailyherald.com/storyimage/DA/20150927/sports/309279888/AR/0/AR-309279888.jpg)
+![](https://www.dailyherald.com/storyimage/DA/20150927/sports/309279888/AR/0/AR-309279888.jpg)
 
 NOOOO!!!!
 

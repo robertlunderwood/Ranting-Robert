@@ -5,24 +5,24 @@ date: '2015-11-13'
 slug: safe-spaces
 categories: [blogging, politics]
 tags: [1st Amendment, Black, Race]
-cover:  http://media.salon.com/2015/11/missouri_protesters.jpg
+cover:  https://media.salon.com/2015/11/missouri_protesters.jpg
 ---
 
-![](http://media.salon.com/2015/11/missouri_protesters.jpg)
+![](https://media.salon.com/2015/11/missouri_protesters.jpg)
 
-> [Safe Space](http://www.advocatesforyouth.org/publications/607-glossary): A place where anyone can relax and be fully self-expressed, without fear of being made to feel uncomfortable, unwelcome, or unsafe on account of biological sex, race/ethnicity, sexual orientation, gender identity or expression, cultural background, age, or physical or mental ability; a place where the rules guard each person's self-respect and dignity and strongly encourage everyone to respect others
+> [Safe Space](https://www.advocatesforyouth.org/publications/607-glossary): A place where anyone can relax and be fully self-expressed, without fear of being made to feel uncomfortable, unwelcome, or unsafe on account of biological sex, race/ethnicity, sexual orientation, gender identity or expression, cultural background, age, or physical or mental ability; a place where the rules guard each person's self-respect and dignity and strongly encourage everyone to respect others
 
 **WHAT??!!!!**
 
 Where did this come from and why are these popping up all over college campuses in America?  Seriously, how did this happen?  Aren't college students supposed to be mature?  Aren't college students supposed to be able to think critically?  Aren't colleges supposed to challenge their students and make them form a coherent and knowledgeable argument?  Aren't these challenges supposed to make students feel uncomfortable and exposed?
 
-These "safe spaces" were originally meant for the LGBT community where they could feel safe to express their sexuality without facing "judgement" from their peers.  The "safe spaces" are being used to rally like-minded people who don't want to be exposed to different opinions or to actual facts.  However it seems as though entire college campus are being made into "safe spaces" where [speeches are being cancelled](http://www.foxnews.com/opinion/2015/10/20/williams-college-dropped-me-from-its-uncomfortable-learning-speaker-series-why.html) due to uncomfortable subject matter and political correctness.
+These "safe spaces" were originally meant for the LGBT community where they could feel safe to express their sexuality without facing "judgement" from their peers.  The "safe spaces" are being used to rally like-minded people who don't want to be exposed to different opinions or to actual facts.  However it seems as though entire college campus are being made into "safe spaces" where [speeches are being cancelled](https://www.foxnews.com/opinion/2015/10/20/williams-college-dropped-me-from-its-uncomfortable-learning-speaker-series-why.html) due to uncomfortable subject matter and political correctness.
 
-With the heightened racial tensions in America, blacks have been creating their own ["spaces"](http://www.theblaze.com/stories/2015/11/11/mizzou-demonstrators-segregate-white-allies-to-form-black-only-healing-space/) to vent and heal from the "oppression" that they face.  What's really happening is that these are being used to rally the troops to fight against "the man" and "the system" which is "keeping the black man down".  Naturally, these "spaces" are being used to keep those with dissenting views, like mine, out.  In addition, some of these "black spaces" are being used to keep white people out.
+With the heightened racial tensions in America, blacks have been creating their own ["spaces"](https://www.theblaze.com/stories/2015/11/11/mizzou-demonstrators-segregate-white-allies-to-form-black-only-healing-space/) to vent and heal from the "oppression" that they face.  What's really happening is that these are being used to rally the troops to fight against "the man" and "the system" which is "keeping the black man down".  Naturally, these "spaces" are being used to keep those with dissenting views, like mine, out.  In addition, some of these "black spaces" are being used to keep white people out.
 
 Isn't that by definition racism?
 
-> [Racial Discrimination](http://www.hri.org/docs/ICERD66.html): Any distinction, exclusion, restriction or preference based on race, colour, descent, or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life.
+> [Racial Discrimination](https://www.hri.org/docs/ICERD66.html): Any distinction, exclusion, restriction or preference based on race, colour, descent, or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life.
 
 Notice how it doesn't mention which race could be subject to or is the cause of discrimination.  In other words, blacks can be racists too.  What happens when you try to mention that to black people?  This:
 

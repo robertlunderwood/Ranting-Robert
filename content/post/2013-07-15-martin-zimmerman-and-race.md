@@ -29,4 +29,4 @@ Nor should the black community.  To let a “local crime story” and “race�
 
 Maybe it’s time for me to renounce my “race”.  I’m an un-hyphenated American and proud of it.  And most importantly, I rise above hate.
 
-![](http://images5.fanpop.com/image/photos/26300000/John-Cena-RISE-ABOVE-HATE-john-cena-26342204-979-1200.jpg)
+![](https://images5.fanpop.com/image/photos/26300000/John-Cena-RISE-ABOVE-HATE-john-cena-26342204-979-1200.jpg)

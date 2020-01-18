@@ -5,10 +5,10 @@ date: '2015-12-21'
 slug: the-corruption-of-the-dnc
 categories: [blogging, politics]
 tags: [Bernie Sanders, Hillary Clinton, Martin O’Malley, screwjob, voting, WWE]
-cover:  http://abcnews.go.com/images/Politics/GTY_clinton_omalley_sanders_kab_150806.jpg
+cover:  https://abcnews.go.com/images/Politics/GTY_clinton_omalley_sanders_kab_150806.jpg
 ---
 
-![](http://abcnews.go.com/images/Politics/GTY_clinton_omalley_sanders_kab_150806.jpg)
+![](https://abcnews.go.com/images/Politics/GTY_clinton_omalley_sanders_kab_150806.jpg)
 *Hillary Clinton, Martin O'Malley, and Bernie Sanders...three people who will never be president*
 
 *Disclaimer:  I am NOT a Democrat.  I am not endorsing any Democrats at all.  I am not supporting Hillary Clinton, Bernie Sanders, and Martin O'Malley and I hope the Democratic nominee gets destroyed in the general election.  None of them are capable of fixing this country.*
@@ -23,7 +23,7 @@ Yeah.  It's that bad.  It's so bad that even MSNBC is calling out the DNC.  T
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jZZ8wTm_PEg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-Martin O'Malley [had issues with the debate schedule](http://thehill.com/blogs/ballot-box/dem-primaries/omalley-dnc-debbie-schultz-awkward-debates) in *August*.  In September, supporters of both O'Malley and Sanders [protested at the DNC headquarters](http://www.breitbart.com/big-government/2015/09/16/democrats-protest-rigged-debate-schedule-outside-dnc-headquarters/) because they felt their candidates weren't getting a fair shake.  Here's a look at the debate schedule:
+Martin O'Malley [had issues with the debate schedule](https://thehill.com/blogs/ballot-box/dem-primaries/omalley-dnc-debbie-schultz-awkward-debates) in *August*.  In September, supporters of both O'Malley and Sanders [protested at the DNC headquarters](https://www.breitbart.com/big-government/2015/09/16/democrats-protest-rigged-debate-schedule-outside-dnc-headquarters/) because they felt their candidates weren't getting a fair shake.  Here's a look at the debate schedule:
 
 * Tuesday, October 13, 2015 hosted by CNN
 
@@ -44,7 +44,7 @@ There are some major problems with the timing of some of these debates.  Two of
 
 It's almost as though DWS and the DNC has already coronated Hillary Clinton as the nominee.  I get that most of us assumed that was the case years ago, but can we at least give everyone else a fair chance.  Are they trying to hide Hillary Clinton from people who would vote against her because of her message and the scandals she has been involved in?  She still needs to answer some questions in regards to those emails and on Benghazi and may still be indicted.
 
-Or perhaps they are afraid of Bernie Sanders.  Many Democrats have had enough of Hillary Clinton and most of the ones that I have talked to are "feeling the Bern."  He's building up his campaign from the grassroots level and his message is resonating.  Is the establishment trying to smother his message by limiting the number of people who hear it?  After [the recent allegations of a data breech](http://www.nbcnews.com/politics/2016-election/sanders-apologizes-clinton-supporters-data-breach-n483271) by the Sanders campaign, I'm not quite sure the DNC isn't trying to run him out of the race via a smear campaign.  It wouldn't be the first time she's been involved in a data breech.
+Or perhaps they are afraid of Bernie Sanders.  Many Democrats have had enough of Hillary Clinton and most of the ones that I have talked to are "feeling the Bern."  He's building up his campaign from the grassroots level and his message is resonating.  Is the establishment trying to smother his message by limiting the number of people who hear it?  After [the recent allegations of a data breech](https://www.nbcnews.com/politics/2016-election/sanders-apologizes-clinton-supporters-data-breach-n483271) by the Sanders campaign, I'm not quite sure the DNC isn't trying to run him out of the race via a smear campaign.  It wouldn't be the first time she's been involved in a data breech.
 
 If this does turn out to be complete corruption by Clinton, DWS, and the DNC, I wouldn't be surprised.  After all, it's far from the first time that Hillary Clinton has been involved in a scandal and she still hasn't been held accountable for a few of them.
 

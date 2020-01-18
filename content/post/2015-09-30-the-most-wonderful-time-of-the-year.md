@@ -25,7 +25,7 @@ So the end of the regular season draws near with the team well assured of at lea
 
 Three games into the season and the Steelers are 2-1 with the only loss coming against Tom Brady and the New England Patriots.  That's probably the best they could have hoped for.  Except there is one major problem...
 
-![](http://www.dailyherald.com/storyimage/DA/20150927/sports/309279888/AR/0/AR-309279888.jpg)
+![](https://www.dailyherald.com/storyimage/DA/20150927/sports/309279888/AR/0/AR-309279888.jpg)
 
 Starting QB Ben Roethlisberger is out 4-6 weeks with a sprained MCL and a bone bruise.  I certainly feared the worst when I first saw the injury.  So now the reigns are given to Michael Vick, certainly a huge downgrade from Big Ben.  The upcoming schedule is daunting and Vick is certainly better than anyone else on the roster or free-agent market at this point, but there are two things that come guaranteed with Vick:  turnovers and injuries.  However, with the strength of the Steelers being on the offensive side of the ball with a good offensive line and the best wide receiver and running back in the NFL, this might be the best supporting cast Vick has ever had in his career.  He doesn't have to win the game; he just needs to not lose it.
 

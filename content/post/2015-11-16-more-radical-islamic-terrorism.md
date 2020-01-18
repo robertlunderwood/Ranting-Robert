@@ -10,15 +10,15 @@ cover:  https://timedotcom.files.wordpress.com/2015/11/eiffel-tower-paris-attack
 
 ![](https://timedotcom.files.wordpress.com/2015/11/eiffel-tower-paris-attacks.jpg)
 
-Over two years ago, I [wrote a post](/post/radical-islamic-terrorism) after an attack in London in regards to radical Islam.  I called out President Obama for not calling out radical Islam.  He refuses to use those words.  In fact, [he referred to ISIS as a JV team](http://www.newyorker.com/magazine/2014/01/27/going-the-distance-david-remnick) in 2014. Even after the [Charlie Hebdo attack in January 2015](http://www.politico.com/magazine/story/2015/01/charlie-hebdo-of-course-it-is-islam-114277), President Obama refused to acknowledge that the real problem isn't the people, but the religion.
+Over two years ago, I [wrote a post](/post/radical-islamic-terrorism) after an attack in London in regards to radical Islam.  I called out President Obama for not calling out radical Islam.  He refuses to use those words.  In fact, [he referred to ISIS as a JV team](https://www.newyorker.com/magazine/2014/01/27/going-the-distance-david-remnick) in 2014. Even after the [Charlie Hebdo attack in January 2015](https://www.politico.com/magazine/story/2015/01/charlie-hebdo-of-course-it-is-islam-114277), President Obama refused to acknowledge that the real problem isn't the people, but the religion.
 
 The City of Light suffered for the second time with at least 127 dead and over 300 injured.  By a JV team.  Weeks after a JV team took down a Russian plane.
 
-The worst part is that the previous day, [Obama stated that he didn't think ISIS was growing stronger and that they were contained](http://www.breitbart.com/video/2015/11/13/obama-isis-is-not-getting-stronger-we-have-contained-them/).  Earlier today at the G-20 summit in Turkey, the media started to push for answers:
+The worst part is that the previous day, [Obama stated that he didn't think ISIS was growing stronger and that they were contained](https://www.breitbart.com/video/2015/11/13/obama-isis-is-not-getting-stronger-we-have-contained-them/).  Earlier today at the G-20 summit in Turkey, the media started to push for answers:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/17guRNoyrXM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-Naturally, none were provided.  Of course, he's never going to get to the answer until he acknowledges what the problem is.  [At the Democratic presidential debate](http://www.breitbart.com/video/2015/11/13/obama-isis-is-not-getting-stronger-we-have-contained-them/), none of the candidates would refer to this attack as radical Islamic terrorism.  Furthermore, none of them would acknowledge that we are at war against them.  That's all fine and dandy except for one problem...
+Naturally, none were provided.  Of course, he's never going to get to the answer until he acknowledges what the problem is.  [At the Democratic presidential debate](https://www.breitbart.com/video/2015/11/13/obama-isis-is-not-getting-stronger-we-have-contained-them/), none of the candidates would refer to this attack as radical Islamic terrorism.  Furthermore, none of them would acknowledge that we are at war against them.  That's all fine and dandy except for one problem...
 
 **THEY ARE AT WAR AGAINST US!**
 

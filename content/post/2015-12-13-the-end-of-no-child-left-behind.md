@@ -5,10 +5,10 @@ date: '2015-12-13'
 slug: the-end-of-no-child-left-behind
 categories: [blogging, politics]
 tags: [education, schools, state’s rights]
-cover:  http://wxow.images.worldnow.com/images/18964097_SA.jpg
+cover:  https://wxow.images.worldnow.com/images/18964097_SA.jpg
 ---
 
-![](http://wxow.images.worldnow.com/images/18964097_SA.jpg)
+![](https://wxow.images.worldnow.com/images/18964097_SA.jpg)
 
 So a few days ago, the "Every Student Succeeds Act" was [signed into law](https://www.washingtonpost.com/local/education/obama-signs-new-k-12-education-law-that-ends-no-child-left-behind/2015/12/10/c9e58d7c-9f51-11e5-a3c5-c77f2cc5a43c_story.html) after passing the House and Senate with broad bipartisan support, a rarity in recent times.  This law does away with most of the regulations that were put into place with "No Child Left Behind" and returns a lot of the power in regards to education policy back to the states.  As a result, the strict pressures in testing students to receive federal funding is removed.  Just as "No Child Left Behind" received bipartisan support when President George W. Bush signed it into law in 2002, the same thing has occurred 13 years later.
 

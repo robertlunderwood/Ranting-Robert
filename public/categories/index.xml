@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ranting Robert</title>
@@ -7,17 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Fri, 16 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blogging</title>
+      <title>blogging</title>
       <link>/categories/blogging/</link>
-      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politics</title>
+      <link>/categories/politics/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/politics/</guid>
       <description></description>
     </item>
     
@@ -27,15 +36,6 @@
       <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
       
       <guid>/categories/poetry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Politics</title>
-      <link>/categories/politics/</link>
-      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/politics/</guid>
       <description></description>
     </item>
     

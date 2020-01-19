@@ -21,7 +21,7 @@
       </ul>
       {{ end }}
       <p class="post-copyright">
-        {{ .Site.Copyright }} This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.  This post was published <strong>{{ div (sub now.Unix .Lastmod.Unix) 86400 }}</strong> days ago, content in the post may be inaccurate.{{ end }}
+        {{ .Site.Copyright }} This post was published <strong>{{ div (sub now.Unix .Lastmod.Unix) 86400 }}</strong> days ago; content in the post may be inaccurate.
       </p>
     </footer>
     {{ if ne .Params.comments false }}

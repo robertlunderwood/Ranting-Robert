@@ -1,19 +1,16 @@
 ---
-title: Racism on the Left
-date: 2020-02-09T20:44:48.389Z
----
-  ---
-title: Racism on the Left
 author: Robert Underwood
-date: '2019-07-25'
-slug: racism-on-the-left
 categories:
   - blogging
+cover: >-
+  https://media.npr.org/assets/img/2019/07/16/ap_19196838786746_wide-c11cbad7a38d14fef5c9fb2513f5b1736df0ae1f-s1600-c85.jpg
+slug: racism-on-the-left
+title: Racism on the Left
+date: 2020-02-09T20:44:48.389Z
 tags:
   - Race
   - black
   - racism
-cover: https://media.npr.org/assets/img/2019/07/16/ap_19196838786746_wide-c11cbad7a38d14fef5c9fb2513f5b1736df0ae1f-s1600-c85.jpg
 ---
 
 Why are Democrats and leftists allowed to be racists and say as much racists stuff as they want without any consequences?

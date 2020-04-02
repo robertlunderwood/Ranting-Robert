@@ -1,14 +1,21 @@
 ---
-title: Resistant to Change
 author: Robert Underwood
-date: '2018-02-16'
 slug: resistant-to-change
-categories: ["blogging", "politics"]
-tags: ["Donadld Trump", "Barack Obama", "Immigration", "Food Stamps", "Budget", "Debt"]
-cover: "https://ndigo.com/wp-content/uploads/2017/01/obama_hope_progress_change1.jpg"
+title: Resistant to Change
+date: '2018-02-16'
+thumbnail: /img/obama_hope_progress_change1.jpg
+cover: 'https://ndigo.com/wp-content/uploads/2017/01/obama_hope_progress_change1.jpg'
+tags:
+  - Donadld Trump
+  - Barack Obama
+  - Immigration
+  - Food Stamps
+  - Budget
+  - Debt
+categories:
+  - blogging
+  - politics
 ---
-![](https://ndigo.com/wp-content/uploads/2017/01/obama_hope_progress_change1.jpg)
-
 I thought "Hope and Change" was the name of the game in 2008.  So why are you so resistant and allergic to change now?  Is it because you don't want the changes?  Maybe you don't like the changes.  Was this not what you wanted?
 
 The reality is that the United States federal government is both broke and broken.  Yet anytime President Donald Trump (Still hurts, doesn't it?) proposes some kind of change to try to get our house in order, the Democrats in Congress, most leftists, and most of the mainstream media poo-poo all over it.  This attitude isn't surprising; it's just lame and pathetic at this point.  I thought the Republicans were the party of no, but the Democrats aren't even trying to agree on some "common sense" legislation.  Unlike the "common sense" legislation the Democrats propose though, what Donald Trump wants doesn't require a constitutional amendment to strip away a right.  In some cases, it doesn't even require a bill to pass Congress.  Some of his propositions just require enforcing the law on the books. 
